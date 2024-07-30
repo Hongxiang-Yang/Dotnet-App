@@ -1,0 +1,14 @@
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/bin/Debug/net8.0/Dotnet-App
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/bin/Debug/net8.0/Dotnet-App.deps.json
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/bin/Debug/net8.0/Dotnet-App.runtimeconfig.json
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/bin/Debug/net8.0/Dotnet-App.dll
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/bin/Debug/net8.0/Dotnet-App.pdb
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.AssemblyInfoInputs.cache
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.AssemblyInfo.cs
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.csproj.CoreCompileInputs.cache
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.dll
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/refint/Dotnet-App.dll
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.pdb
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/Dotnet-App.genruntimeconfig.cache
+/Users/yanghongxiang/Documents/GitHub/Dotnet-App/obj/Debug/net8.0/ref/Dotnet-App.dll
